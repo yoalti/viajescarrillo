@@ -1,0 +1,13 @@
+<html>
+<head>
+<title>Agencia de viajes Carillo</title>
+</head>
+<frameset rows="100,*,100">
+   <frame  name="cabecera" src="cabecera.html" />
+   <frameset cols="15%,*,0%">
+      <frame name="menu" src="menu.html" />	 
+      <frame  name="logo" src="logo.html" /> 			
+   </frameset>
+   <frame name="pie" src="pie.html" />
+</frameset>
+</html>
